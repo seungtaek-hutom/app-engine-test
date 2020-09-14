@@ -1,0 +1,23 @@
+{
+  "name": "app-engine-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seungtaek-hutom/app-engine-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seungtaek-hutom/app-engine-test/issues"
+  },
+  "homepage": "https://github.com/seungtaek-hutom/app-engine-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
