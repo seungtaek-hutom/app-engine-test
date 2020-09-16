@@ -1,5 +1,7 @@
 runtime: nodejs12
 
+module: test-app
+
 env_variables:
   MY_NAME: "seungtaek"
 
